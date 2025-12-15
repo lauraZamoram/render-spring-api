@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "API Spring Boot desplegada en Render usando Docker 🚀";
+        return "API Spring Boot desplegada en Render usando Docker :)";
     }
 }
